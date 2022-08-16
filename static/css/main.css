@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.content{
+  margin: 0 auto;
+  width: 500px;
+}
+
+td {
+  padding: 5px;
+}
